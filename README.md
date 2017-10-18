@@ -7,3 +7,4 @@ Nadira Dewji
 David Klein
 Seunggun Lee
 Fiona
+Beverly Satosky
