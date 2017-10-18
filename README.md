@@ -1,4 +1,5 @@
 # Contributors
+Ali Saad
 Ami Nachiappan
 Daisy Zheng Computer Science
 Haniyyah, majoring in Neural Science
