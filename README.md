@@ -1,2 +1,2 @@
 # Contributors
-Paul Flanagan
+Paul Flanagan, Computer Science
