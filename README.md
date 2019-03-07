@@ -1,4 +1,5 @@
 # Contributors
+Carol He - Computer Science
 Ali Saad
 Ami Nachiappan
 Daisy Zheng Computer Science
